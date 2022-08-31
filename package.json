@@ -1,0 +1,15 @@
+{
+  "name": "task-management-api",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npm --prefix kong run lint && npm --prefix user run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Denrox/nestjs-microservices-example.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
